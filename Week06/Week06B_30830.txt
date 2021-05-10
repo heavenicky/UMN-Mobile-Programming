@@ -1,0 +1,2 @@
+pada layar terdapat gambar kuda yang sudah kita input dalam program. pada gambar kuda tersebut, kuda tersebut terlihat bergerak dan kuda tersebut terlihat speerti berlari
+karena gambar yang dihasilkan bergerak terus

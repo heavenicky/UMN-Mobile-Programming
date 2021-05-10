@@ -1,0 +1,3 @@
+1. pada program A, program tersebut menunjukan adanya asynctask ketika tombol "mulai task" di tekan. ketika tobol tersebut ditekan, maka program akan menampilkan progress bar yang mewakilkan int dan output yang dihasilkan mewakilkan object.
+2. pada program B, program tersebut sama seperti program A, tapi bedanya pada program B dibuat menggunakan asynctaskloader dan loadermanager.
+3. pada program C, program tersebut dijalan 2 kali. pertama ketika tidak menggunakan asynctask, program error ketika tombol di klik 3 kali. pada percobban kedua, program sudah diubah menggunakan asyntask dan program tidak error. lalu ketika tombol "tampilkan waktu" di klik akan menampilkan waktu dan tanggal sekarang  

@@ -1,0 +1,2 @@
+pada program pertama, user bisa open, save, delete file, dan exit program. user juga bisa memilih metode penyimpanan yaitu temporal, internal dan external
+pada program kedua, user bisa menambahkan angka, serta mengubah warna background dengan warna yang berbeda dengan tombol yang tersedia. user juga bisa mereset kembali menjadi format awal

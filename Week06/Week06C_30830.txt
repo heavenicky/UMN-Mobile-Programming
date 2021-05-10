@@ -1,0 +1,3 @@
+pada layar tersebut, terdapat 2 tombol yang bertuliskan "HALO SPRING" dan "HALO FLING"
+apabila tombol tersebut di klik, maka tolbol tersebut akan memutar dan akan membuat efek bayangan,
+begitu pula tombol yang lainnya. 

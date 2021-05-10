@@ -1,0 +1,3 @@
+pada layar terdapat layar berwarna putih yang kosong, apabila layar disentuh, maka akan muncul animasi
+berbentuk bulat yang membesar berwarna hijau yang kemudian berubah warna menjadi warna cyan blue dan kembali mengecil
+menjadi warna hijau.
